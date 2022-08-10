@@ -1,0 +1,20 @@
+body{
+	text-align: center;
+}
+.negro, .verde {
+    margin: 0;
+    padding: 0;
+    width: 72px;
+    height:72px;
+    margin: -4px;
+    display:inline-block;
+}
+.negro {
+    background: black;
+}
+.verde {
+    background: green;
+}
+#line {
+    display:block;
+}
